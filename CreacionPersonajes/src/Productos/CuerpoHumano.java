@@ -13,6 +13,6 @@ public class CuerpoHumano implements Cuerpo {
    
     @Override
     public String operacion() {
-        return "Creando cuerpo Humano";
+        return "/Imagenes/humano.jpg";
     }
 }

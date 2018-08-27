@@ -12,7 +12,7 @@ package Productos;
 public class ArmaHumano implements Arma {
        
     @Override
-    public String operacion() {
+    public String operacion() {        
         return "Creando arma Humana";
     }
     
